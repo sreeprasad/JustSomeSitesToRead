@@ -1,5 +1,3 @@
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f#invest-in-iteration-speed
-
 https://firstround.com/review/Execute-Like-a-Rookie-Lead-Like-a-Multiplier/
 https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit#
 https://blog.pragmaticengineer.com/how-to-to-become-an-engineering-manager/
